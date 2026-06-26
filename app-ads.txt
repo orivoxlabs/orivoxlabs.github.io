@@ -1,0 +1,1 @@
+# Add your AdMob app-ads.txt entries here after AdMob setup.
